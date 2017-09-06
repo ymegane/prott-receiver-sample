@@ -42,3 +42,5 @@ tmp
 
 **/node_modules/*
 **/.firebaserc
+
+google-services.json
